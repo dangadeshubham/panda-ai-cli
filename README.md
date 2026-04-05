@@ -1,3 +1,5 @@
+<img width="1919" height="1023" alt="Screenshot 2026-04-05 212801" src="https://github.com/user-attachments/assets/daa964b3-f85b-4805-a7d1-7bf542f4b768" />
+
 PANDA AI — Command-Line AI Assistant
 
 Built my own AI system from scratch.
